@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&duration=4000&pause=700&color=30F745&width=435&lines=user%3DZayn+Khan;major%3DCybersecurity;skills%3DLinux%2C+Python%2C+Metasploit;interests%3D'Ethical+Hacking'%2C+'Penetration+Testing')](https://git.io/typing-svg)
+
 <h1 align="left">Hey, I'm Zayn</h1>
 <h3 align="left">A Cybersecurity student from Chicago.</h3>
 
